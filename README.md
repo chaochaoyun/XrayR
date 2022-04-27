@@ -88,7 +88,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/amfiyong/XrayR-release/master/
 1. go 1.16.0
 2. 依次运行
 ```bash
-git clone https://github.com/amfiyong/XrayR
+git clone https://github.com/chaochaoyun/XrayR
 cd XrayR/main
 go mod tidy
 go build -o XrayR -ldflags "-s -w"
